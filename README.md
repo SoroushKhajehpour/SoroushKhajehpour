@@ -1,4 +1,6 @@
-## work in progress...
+- 18 year old aspiring computer engineer at Waterloo.
+  
+
 
 <!--
 **SoroushKhajehpour/SoroushKhajehpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
