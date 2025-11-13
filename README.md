@@ -1,5 +1,12 @@
-- 18 year old aspiring computer engineer at Waterloo.
-  
+
+I’m a Computer Engineering student at the University of Waterloo interested in software, hardware, and the point where the two meet.
+
+Right now I’m building projects in:
+• C++ and embedded systems  
+• React, JavaScript, and Firebase  
+• Firmware concepts through design team work  
+
+Outside of class, I like creating small tools and products to sharpen my skills and learn new tech quickly.
 
 
 <!--
