@@ -1,14 +1,12 @@
+Projects, experiments, and notes from what I’m learning in computer engineering.
 
-I’m a Computer Engineering student at the University of Waterloo interested in software, hardware, and the point where the two meet.
+Current focus:
+• C++ fundamentals  
+• Embedded systems  
+• React + web development  
+• Git/GitHub workflows  
 
-Right now I’m building projects in:
-
-• C++ and embedded systems  
-• React, JavaScript, and Firebase  
-• Firmware concepts through design team work  
-
-Outside of class, I like creating small tools and products to sharpen my skills and learn new tech quickly.
-
+Always building something new.
 
 <!--
 **SoroushKhajehpour/SoroushKhajehpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
