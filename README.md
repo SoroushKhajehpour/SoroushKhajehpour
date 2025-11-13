@@ -2,6 +2,7 @@
 I’m a Computer Engineering student at the University of Waterloo interested in software, hardware, and the point where the two meet.
 
 Right now I’m building projects in:
+
 • C++ and embedded systems  
 • React, JavaScript, and Firebase  
 • Firmware concepts through design team work  
