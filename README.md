@@ -1,6 +1,7 @@
 Projects, experiments, and notes from what I’m learning in computer engineering.
 
 Current focus:
+
 • C++ fundamentals  
 • Embedded systems  
 • React + web development  
