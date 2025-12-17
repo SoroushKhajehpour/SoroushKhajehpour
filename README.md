@@ -2,12 +2,11 @@ Projects, experiments, and notes from what I’m learning in computer engineerin
 
 Current focus:
 
-• C++ fundamentals  
 • Embedded systems  
-• React + web development  
+• ML
 • Git/GitHub workflows  
 
-Always building something new.
+
 
 <!--
 **SoroushKhajehpour/SoroushKhajehpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
