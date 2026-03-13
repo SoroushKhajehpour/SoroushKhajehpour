@@ -1,10 +1,11 @@
-Projects, experiments, and notes from what I’m learning in computer engineering.
+Documenting my learning and progress.
 
-Current focus:
-
-• Embedded systems  
-• ML
-• Git/GitHub workflows  
+Currently learning:
+                    - Ruby & Ruby on Rails
+                    - MVC
+                    - Databases (PostgresSQL)
+                    - Caching and overall systems design
+                    - AI Agents/Tools
 
 
 
