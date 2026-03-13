@@ -1,11 +1,11 @@
 Documenting my learning and progress.
 
 Currently learning:
-                    - Ruby & Ruby on Rails
-                    - MVC
-                    - Databases (PostgresSQL)
-                    - Caching and overall systems design
-                    - AI Agents/Tools
+- Ruby & Ruby on Rails
+- MVC
+- Databases (PostgresSQL)
+- Caching and overall systems design
+- AI Agents/Tools
 
 
 
