@@ -1,10 +1,11 @@
 Documenting my learning and progress.
 
 Currently learning:
+- Python
 - Ruby & Ruby on Rails
-- MVC
-- Databases (PostgresSQL)
-- Caching and overall systems design
+- FastAPI
+- DSA
+- Systems Design
 - AI Agents/Tools
 
 
