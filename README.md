@@ -1,26 +1,110 @@
-Documenting my learning and progress.
+<div align="center">
 
-Currently learning:
-- Python
-- Ruby & Ruby on Rails
-- FastAPI
-- DSA
-- Systems Design
-- AI Agents/Tools
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:2d1b69&height=180&section=header&text=Soroush%20Khajehpour&fontSize=42&fontColor=c084fc&fontAlignY=38&desc=comp%20eng%20%40%20uwaterloo%20%7C%20builder%20%7C%20always%201%25%20better&descSize=16&descColor=7c3aed&animation=fadeIn" width="100%"/>
 
+</div>
 
+<div align="center">
 
-<!--
-**SoroushKhajehpour/SoroushKhajehpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+  Focus · Discipline · Success
+```
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/soroush.me-%23c084fc?style=for-the-badge&logo=vercel&logoColor=0d0d1a)](https://soroushkhajehpour.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1040?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/feed/)
+[![Email](https://img.shields.io/badge/s3khajehpour%40uwaterloo-%232d1b69?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:s3khajehpour@uwaterloo.ca)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushKhajehpour&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=7c3aed&title_color=c084fc&text_color=a78bfa&hide_border=false&langs_count=8" />
+
+### `> whoami`
+
+```typescript
+const soroush = {
+  age:       18,
+  program:   "Computer Engineering @ UWaterloo",
+  location:  "Toronto → Waterloo, ON 🍁",
+  currently: "building cool things",
+  learning:  ["Python", "Ruby on Rails", "FastAPI",
+              "DSA", "Systems Design", "AI Agents"],
+  mantra:    "1% better everyday",
+};
+```
+
+<br clear="right"/>
+
+---
+
+### `> tech_stack --list`
+
+**Languages**
+
+![Ruby](https://img.shields.io/badge/Ruby-%230d0d1a?style=flat-square&logo=ruby&logoColor=c084fc)
+![Python](https://img.shields.io/badge/Python-%230d0d1a?style=flat-square&logo=python&logoColor=c084fc)
+![TypeScript](https://img.shields.io/badge/TypeScript-%230d0d1a?style=flat-square&logo=typescript&logoColor=c084fc)
+![JavaScript](https://img.shields.io/badge/JavaScript-%230d0d1a?style=flat-square&logo=javascript&logoColor=c084fc)
+![C++](https://img.shields.io/badge/C++-%230d0d1a?style=flat-square&logo=cplusplus&logoColor=c084fc)
+![C](https://img.shields.io/badge/C-%230d0d1a?style=flat-square&logo=c&logoColor=c084fc)
+![Swift](https://img.shields.io/badge/Swift-%230d0d1a?style=flat-square&logo=swift&logoColor=c084fc)
+![SQL](https://img.shields.io/badge/SQL-%230d0d1a?style=flat-square&logo=postgresql&logoColor=c084fc)
+
+**Frameworks & Backend**
+
+![Rails](https://img.shields.io/badge/Rails-%231a1040?style=flat-square&logo=rubyonrails&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-%231a1040?style=flat-square&logo=react&logoColor=a78bfa)
+![Next.js](https://img.shields.io/badge/Next.js-%231a1040?style=flat-square&logo=nextdotjs&logoColor=a78bfa)
+![FastAPI](https://img.shields.io/badge/FastAPI-%231a1040?style=flat-square&logo=fastapi&logoColor=a78bfa)
+![Node.js](https://img.shields.io/badge/Node.js-%231a1040?style=flat-square&logo=nodedotjs&logoColor=a78bfa)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231a1040?style=flat-square&logo=postgresql&logoColor=a78bfa)
+![Redis](https://img.shields.io/badge/Redis-%231a1040?style=flat-square&logo=redis&logoColor=a78bfa)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-%231a1040?style=flat-square&logo=sidekiq&logoColor=a78bfa)
+
+**DevOps & Tools**
+
+![AWS](https://img.shields.io/badge/AWS_S3-%232d1b69?style=flat-square&logo=amazons3&logoColor=c084fc)
+![Docker](https://img.shields.io/badge/Docker-%232d1b69?style=flat-square&logo=docker&logoColor=c084fc)
+![Git](https://img.shields.io/badge/Git-%232d1b69?style=flat-square&logo=git&logoColor=c084fc)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232d1b69?style=flat-square&logo=githubactions&logoColor=c084fc)
+![Vercel](https://img.shields.io/badge/Vercel-%232d1b69?style=flat-square&logo=vercel&logoColor=c084fc)
+![Unity](https://img.shields.io/badge/Unity_/_C%23-%232d1b69?style=flat-square&logo=unity&logoColor=c084fc)
+
+---
+
+### `> git log --highlights`
+
+| Project | Stack | About |
+|---|---|---|
+| 🍳 **ChefIt** | SwiftUI · Node.js · PostgreSQL · OpenAI | AI pantry optimizer — 24hr hackathon, 2M+ recipe catalog |
+| 🚗 **Fleet Platform @ Roam** | Rails · React · PostgreSQL · Sidekiq | 500+ vehicles, ~60% reduction in maintenance delays |
+| 🌐 **ECE 2025 Class Profile** | Next.js · TailwindCSS | 100+ student profiles, recruiter-optimized directory |
+| 🚀 **Rocketry Flight Systems** | C/C++ · Arduino | First HS team at Launch Canada (national uni competition) |
+| 🥽 **VR Interaction @ UW Reality Labs** | Unity · C# · Python | XR prototype with spatial tracking & gesture input |
+
+---
+
+### `> github --stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SoroushKhajehpour&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=7c3aed&title_color=c084fc&text_color=a78bfa&icon_color=7c3aed&ring_color=c084fc&hide_border=false&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SoroushKhajehpour&theme=tokyonight&background=0d0d1a&border=7c3aed&ring=c084fc&fire=c084fc&currStreakNum=a78bfa&sideNums=a78bfa&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=4c1d95" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SoroushKhajehpour&bg_color=0d0d1a&color=c084fc&line=7c3aed&point=c084fc&area=true&area_color=2d1b69&hide_border=false&border_color=7c3aed&title_color=c084fc" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a1040,100:0d0d1a&height=100&section=footer&reversal=false" width="100%"/>
+
+</div>
