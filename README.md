@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:2d1b69&height=120&section=header" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=70&lines=Soroush+Khajehpour" alt="Soroush Khajehpour" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=0&color=C084FC&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Soroush+Khajehpour" alt="Soroush Khajehpour" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=1B+Computer+Engineering+%40+UWaterloo;Toronto+%F0%9F%8D%81+Waterloo%2C+ON" alt="subtitle" />
 
@@ -11,15 +11,13 @@
 <div align="center">
 
 
-[![Portfolio](https://img.shields.io/badge/soroush.me-%23c084fc?style=for-the-badge&logo=vercel&logoColor=0d0d1a)](https://soroushkhajehpour.com)
+[![Portfolio](https://img.shields.io/badge/soroush.me-%23c084fc?style=for-the-badge&logo=googlechrome&logoColor=0d0d1a)](https://soroushkhajehpour.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1040?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/feed/)
 [![Email](https://img.shields.io/badge/s3khajehpour%40uwaterloo-%232d1b69?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:s3khajehpour@uwaterloo.ca)
 
 </div>
 
 ---
-
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushKhajehpour&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=7c3aed&title_color=c084fc&text_color=a78bfa&hide_border=false&langs_count=8" />
 
 ### `> whoami`
 
@@ -32,10 +30,6 @@ const soroush = {
               "DSA", "Systems Design", "AI Agents"],
 };
 ```
-
-![UWaterloo](https://img.shields.io/badge/University_of_Waterloo-gold?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTV2LTEweiIgZmlsbD0iIzAwMDAwMCIvPjwvc3ZnPg==&logoColor=black&labelColor=FFD700&color=1a1040)
-
-<br clear="right"/>
 
 ---
 
@@ -78,11 +72,11 @@ const soroush = {
 
 | Project | Stack | About |
 |---|---|---|
-| 🍳 **ChefIt** | SwiftUI · Node.js · PostgreSQL · OpenAI | AI pantry optimizer — 24hr hackathon, 2M+ recipe catalog |
-| 🚗 **Fleet Platform @ Roam** | Rails · React · PostgreSQL · Sidekiq | 500+ vehicles, ~60% reduction in maintenance delays |
-| 🌐 **ECE 2025 Class Profile** | Next.js · TailwindCSS | 100+ student profiles, recruiter-optimized directory |
-| 🚀 **Rocketry Flight Systems** | C/C++ · Arduino | First HS team at Launch Canada (national uni competition) |
-| 🥽 **VR Interaction @ UW Reality Labs** | Unity · C# · Python | XR prototype with spatial tracking & gesture input |
+| **ChefIt** | SwiftUI · Node.js · PostgreSQL · OpenAI | AI pantry optimizer — 24hr hackathon, 2M+ recipe catalog |
+| **Fleet Platform @ Roam** | Rails · React · PostgreSQL · Sidekiq | 500+ vehicles, ~60% reduction in maintenance delays |
+| **ECE 2025 Class Profile** | Next.js · TailwindCSS | 100+ student profiles, recruiter-optimized directory |
+| **Rocketry Flight Systems** | C/C++ · Arduino | First HS team at Launch Canada (national uni competition) |
+| **VR Interaction @ UW Reality Labs** | Unity · C# · Python | XR prototype with spatial tracking & gesture input |
 
 ---
 
