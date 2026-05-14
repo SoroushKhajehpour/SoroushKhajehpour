@@ -11,7 +11,7 @@
 <div align="center">
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23c084fc?style=for-the-badge&logo=googlechrome&logoColor=0d0d1a)](https://soroushkhajehpour.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23c084fc?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSI4IiByPSI0IiBmaWxsPSIjMGQwZDFhIi8+PHBhdGggZD0iTTQgMjBjMC00LjQgMy42LTggOC04czggMy42IDggOCIgZmlsbD0iIzBkMGQxYSIvPjwvc3ZnPg==&logoColor=0d0d1a)](https://soroushkhajehpour.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1040?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/feed/)
 [![Email](https://img.shields.io/badge/s3khajehpour%40uwaterloo-%232d1b69?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:s3khajehpour@uwaterloo.ca)
 
