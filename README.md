@@ -11,7 +11,7 @@
 <div align="center">
 
 
-[![Portfolio](https://img.shields.io/badge/soroush.me-%23c084fc?style=for-the-badge&logo=googlechrome&logoColor=0d0d1a)](https://soroushkhajehpour.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23c084fc?style=for-the-badge&logo=googlechrome&logoColor=0d0d1a)](https://soroushkhajehpour.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1040?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/feed/)
 [![Email](https://img.shields.io/badge/s3khajehpour%40uwaterloo-%232d1b69?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:s3khajehpour@uwaterloo.ca)
 
@@ -84,8 +84,6 @@ const soroush = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SoroushKhajehpour&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=7c3aed&title_color=c084fc&text_color=a78bfa&icon_color=7c3aed&ring_color=c084fc&hide_border=false&count_private=true" />
-&nbsp;
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SoroushKhajehpour&theme=tokyonight&background=0d0d1a&border=7c3aed&ring=c084fc&fire=c084fc&currStreakNum=a78bfa&sideNums=a78bfa&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=4c1d95" />
 
 </div>
