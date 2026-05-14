@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:2d1b69&height=180&section=header&text=Soroush%20Khajehpour&fontSize=42&fontColor=c084fc&fontAlignY=38&desc=comp%20eng%20%40%20uwaterloo%20%7C%20builder%20%7C%20always%201%25%20better&descSize=16&descColor=7c3aed&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:2d1b69&height=120&section=header" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=70&lines=Soroush+Khajehpour" alt="Soroush Khajehpour" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=1B+Computer+Engineering+%40+UWaterloo;Toronto+%F0%9F%8D%81+Waterloo%2C+ON" alt="subtitle" />
 
 </div>
 
 <div align="center">
 
-```
-  Focus · Discipline · Success
-```
 
 [![Portfolio](https://img.shields.io/badge/soroush.me-%23c084fc?style=for-the-badge&logo=vercel&logoColor=0d0d1a)](https://soroushkhajehpour.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1040?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/feed/)
@@ -24,15 +25,15 @@
 
 ```typescript
 const soroush = {
-  age:       18,
-  program:   "Computer Engineering @ UWaterloo",
+  program:   "1B Computer Engineering @ UWaterloo 🛡️",
   location:  "Toronto → Waterloo, ON 🍁",
-  currently: "building cool things",
+  prev:      "SWE Intern @ Roam 🚗",
   learning:  ["Python", "Ruby on Rails", "FastAPI",
               "DSA", "Systems Design", "AI Agents"],
-  mantra:    "1% better everyday",
 };
 ```
+
+![UWaterloo](https://img.shields.io/badge/University_of_Waterloo-gold?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTV2LTEweiIgZmlsbD0iIzAwMDAwMCIvPjwvc3ZnPg==&logoColor=black&labelColor=FFD700&color=1a1040)
 
 <br clear="right"/>
 
@@ -60,7 +61,7 @@ const soroush = {
 ![Node.js](https://img.shields.io/badge/Node.js-%231a1040?style=flat-square&logo=nodedotjs&logoColor=a78bfa)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231a1040?style=flat-square&logo=postgresql&logoColor=a78bfa)
 ![Redis](https://img.shields.io/badge/Redis-%231a1040?style=flat-square&logo=redis&logoColor=a78bfa)
-![Sidekiq](https://img.shields.io/badge/Sidekiq-%231a1040?style=flat-square&logo=sidekiq&logoColor=a78bfa)
+![Inertia](https://img.shields.io/badge/Inertia.js-%231a1040?style=flat-square&logo=inertia&logoColor=a78bfa)
 
 **DevOps & Tools**
 
@@ -69,7 +70,7 @@ const soroush = {
 ![Git](https://img.shields.io/badge/Git-%232d1b69?style=flat-square&logo=git&logoColor=c084fc)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232d1b69?style=flat-square&logo=githubactions&logoColor=c084fc)
 ![Vercel](https://img.shields.io/badge/Vercel-%232d1b69?style=flat-square&logo=vercel&logoColor=c084fc)
-![Unity](https://img.shields.io/badge/Unity_/_C%23-%232d1b69?style=flat-square&logo=unity&logoColor=c084fc)
+![Unity](https://img.shields.io/badge/Unity-%232d1b69?style=flat-square&logo=unity&logoColor=c084fc)
 
 ---
 
@@ -97,7 +98,7 @@ const soroush = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SoroushKhajehpour&bg_color=0d0d1a&color=c084fc&line=7c3aed&point=c084fc&area=true&area_color=2d1b69&hide_border=false&border_color=7c3aed&title_color=c084fc" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SoroushKhajehpour&bg_color=0d0d1a&color=c084fc&line=7c3aed&area=true&area_color=2d1b69&hide_border=false&border_color=7c3aed&title_color=c084fc&radius=6" />
 
 </div>
 
