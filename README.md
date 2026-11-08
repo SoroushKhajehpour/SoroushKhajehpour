@@ -23,9 +23,9 @@
 
 ```typescript
 const soroush = {
-  program:   "1B Computer Engineering @ UWaterloo 🛡️",
+  program:   "2A Computer Engineering @ UWaterloo 🛡️",
   location:  "Toronto → Waterloo, ON 🍁",
-  prev:      "SWE Intern @ Roam 🚗",
+  currently:      "Software Intern @ KA Imaging ",
   learning:  ["Python", "Ruby on Rails", "FastAPI",
               "DSA", "Systems Design", "AI Agents"],
 };
