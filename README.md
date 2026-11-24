@@ -68,18 +68,6 @@ const soroush = {
 
 ---
 
-### `> git log --highlights`
-
-| Project | Stack | About |
-|---|---|---|
-| **ChefIt** | SwiftUI · Node.js · PostgreSQL · OpenAI | AI pantry optimizer — 24hr hackathon, 2M+ recipe catalog |
-| **Fleet Platform @ Roam** | Rails · React · PostgreSQL · Sidekiq | 500+ vehicles, ~60% reduction in maintenance delays |
-| **ECE 2025 Class Profile** | Next.js · TailwindCSS | 100+ student profiles, recruiter-optimized directory |
-| **Rocketry Flight Systems** | C/C++ · Arduino | First HS team at Launch Canada (national uni competition) |
-| **VR Interaction @ UW Reality Labs** | Unity · C# · Python | XR prototype with spatial tracking & gesture input |
-
----
-
 ### `> github --stats`
 
 <div align="center">
